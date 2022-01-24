@@ -1,0 +1,32 @@
+.cajaTop {
+    background-color: #0B0D2A;     
+    height: 1.5em; 
+    color: red;    
+}
+.cajaBusqueda{
+    background-color: black;
+    height: 5em;
+    border-bottom: 2pt red solid;
+    color: red; 
+}
+
+.cajaSecciones{
+    box-shadow: 1px 1px 7px -4px;
+    height: 2.7em;
+    color: red; 
+}
+
+.cajaColecciones{
+    margin: 3em;
+}
+.fondoCentro{
+    background-color:gainsboro ;
+}
+
+
+img{
+    max-width:100%; height:auto
+}
+
+
+
